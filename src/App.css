@@ -1,0 +1,18 @@
+.image{
+  display: flex;
+  width: 100%;
+
+}
+
+img {
+  
+  height: 500px;
+}
+
+header {
+
+  text-align: center;
+  margin-bottom: 20px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: aliceblue;
+}
